@@ -1,6 +1,11 @@
 ### Hi there 👋
 
 This is the work github for Brandon Bonifacio for Active Insights. 
+![image](https://github.com/bbonifacio-at-activeinsights/bbonifacio-at-activeinsights/assets/158210263/2a01df1a-7fcd-46f7-99a5-516257ab613b)
+![image](https://github.com/bbonifacio-at-activeinsights/bbonifacio-at-activeinsights/assets/158210263/cdb788b1-d075-4d2b-9ddb-b376d4c823f6)
+![image](https://github.com/bbonifacio-at-activeinsights/bbonifacio-at-activeinsights/assets/158210263/b813e911-381c-4236-ab89-70c2ffb97f0c)
+
+
 
 <!--
 **bbonifacio-at-activeinsights/bbonifacio-at-activeinsights** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
